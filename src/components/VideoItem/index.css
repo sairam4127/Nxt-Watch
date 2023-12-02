@@ -1,0 +1,25 @@
+@media screen and (min-width: 768px) {
+  .video-link-item {
+    margin: 10px;
+    width: 35%;
+    height: 450px;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .video-link-item {
+    width: 55%;
+  }
+}
+.selected {
+  color: #2563eb;
+}
+
+.not-selected {
+  color: #64748b;
+}
+
+.video-image {
+  width: 98%;
+}

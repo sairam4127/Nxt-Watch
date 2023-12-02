@@ -1,0 +1,29 @@
+.link-item {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 20px;
+  margin-top: 16px;
+  margin-right: 20px;
+}
+
+.dark {
+  color: #f9f9f9;
+}
+
+.light {
+  color: #181818;
+}
+
+.darkBg {
+  background-color: #231f20;
+}
+
+.lightBg {
+  background-color: #f1f1f1;
+}
